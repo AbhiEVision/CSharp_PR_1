@@ -210,6 +210,7 @@ namespace Calculator
 			Console.ForegroundColor = ConsoleColor.White;
 		}
 
+		// Printing the error inside a red font
 		public static void PrintError(string ErrorMessage)
 		{
 			Console.WriteLine();
@@ -219,6 +220,7 @@ namespace Calculator
 			Console.WriteLine();
 		}
 
+		// Printing a Line
 		public static void PrintLine(string stringToPrint)
 		{
 			Console.WriteLine(stringToPrint);

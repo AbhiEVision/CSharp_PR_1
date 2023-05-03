@@ -4,6 +4,7 @@ namespace Calculator
 {
 	public static class InputClass
 	{
+		// taking two number as an input form user
 		public static Numbers TakeNumbersFromUser()
 		{
 			int firstNUmber = 0, secondNumber = 0;
