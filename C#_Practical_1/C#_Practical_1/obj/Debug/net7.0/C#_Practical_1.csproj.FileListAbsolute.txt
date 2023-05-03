@@ -1,0 +1,15 @@
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\bin\Debug\net7.0\C#_Practical_1.exe
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\bin\Debug\net7.0\C#_Practical_1.deps.json
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\bin\Debug\net7.0\C#_Practical_1.runtimeconfig.json
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\bin\Debug\net7.0\C#_Practical_1.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\bin\Debug\net7.0\C#_Practical_1.pdb
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.csproj.AssemblyReference.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.AssemblyInfoInputs.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.AssemblyInfo.cs
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.csproj.CoreCompileInputs.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\refint\C#_Practical_1.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.pdb
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\C#_Practical_1.genruntimeconfig.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\C#_Practical_1\obj\Debug\net7.0\ref\C#_Practical_1.dll
