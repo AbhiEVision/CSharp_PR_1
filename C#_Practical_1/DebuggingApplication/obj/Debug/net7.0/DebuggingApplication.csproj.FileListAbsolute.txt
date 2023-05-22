@@ -1,0 +1,15 @@
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\bin\Debug\net7.0\DebuggingApplication.exe
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\bin\Debug\net7.0\DebuggingApplication.deps.json
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\bin\Debug\net7.0\DebuggingApplication.runtimeconfig.json
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\bin\Debug\net7.0\DebuggingApplication.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\bin\Debug\net7.0\DebuggingApplication.pdb
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\refint\DebuggingApplication.dll
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.pdb
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\abhi\OneDrive - Simform Solutions Pvt. Ltd\Desktop\C#_PR_1\C#_Practical_1\DebuggingApplication\obj\Debug\net7.0\ref\DebuggingApplication.dll
